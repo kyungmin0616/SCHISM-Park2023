@@ -1,2 +1,2 @@
 # SCHISM-Park2023
-Scripts used fo Park et al. (2023)
+Scripts used for Park et al. (2023)
